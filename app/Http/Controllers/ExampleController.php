@@ -7,6 +7,4 @@ class ExampleController extends Controller
 
 
     
-
-    //
 }
